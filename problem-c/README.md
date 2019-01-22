@@ -1,4 +1,4 @@
-# Problem A
+# Problem C
 
 In this exercise, you'll practice with functional looping and arrays of objects.
 

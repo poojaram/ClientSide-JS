@@ -1,4 +1,4 @@
-# Problem B
+# Problem A
 
 In this exercise, you'll practice with fundamental JavaScript variables and syntax.
 
